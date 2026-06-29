@@ -1,0 +1,12 @@
+# 数据与模型缓存
+data/
+*.csv
+*.txt
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 环境变量秘钥
+.env
