@@ -1,5 +1,6 @@
 # 数据与模型缓存
 data/
+stock_data_hist/
 *.csv
 *.txt
 
